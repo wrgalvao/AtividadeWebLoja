@@ -1,0 +1,33 @@
+.topnav
+{
+    background-color: rgb(44, 48, 48);
+    padding: 15px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+body
+{
+    background-color: aliceblue;
+}
+.row
+{
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.footer
+{
+    background-color: rgb(138, 140, 141);
+    text-align: center;
+    padding: 20px;
+}
+.preco
+{
+    background-color: rgb(60, 61, 61);
+    font-size: 20pt;
+    color: white;
+}
