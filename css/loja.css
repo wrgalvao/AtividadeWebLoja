@@ -1,0 +1,66 @@
+.header
+{
+    text-align: center;
+    padding: 30px;
+    background-color: white;
+}
+.topnav
+{
+    background-color: #302d2d;
+    text-decoration: none;
+    padding-left: 14px;
+    padding-right: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+}
+#carrinho
+{
+    float: right;
+}
+#carrinhocom
+{
+    vertical-align: middle;
+}
+#aEspaco
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.sellcard
+{
+    float: left;
+    width: 23.40%;
+    margin: 10px;
+}
+.sellcard img
+{
+    width: 80%;
+    margin: auto;
+}
+.descricao
+{
+    text-align: center;
+    font-size: 15pt;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+}
+.valor
+{
+    text-align: center;
+    font-size: 80%;
+    font-weight: bold;
+}
+.compra
+{
+    text-align: center;
+}
+body
+{
+    background-color: aliceblue
+}
