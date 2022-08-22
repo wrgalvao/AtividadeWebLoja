@@ -25,9 +25,14 @@ body
     text-align: center;
     padding: 20px;
 }
+li
+{
+    font-size: 20pt;
+}
 .preco
 {
     background-color: rgb(60, 61, 61);
-    font-size: 20pt;
     color: white;
+    border-radius: 5px;
+    padding: 5px;
 }
