@@ -64,4 +64,85 @@ body
 {
     background-color: aliceblue
 }
-@media ()
+@media (min-width: 250px) and (max-width: 1368)
+{
+    .topnav
+    {
+        display: block;
+    }
+    .sellcard
+    {
+        display: block;
+    }
+    .header
+    {
+        display: block;
+    }
+    .descricao
+    {
+        display: block;
+    }
+    .compra
+    {
+        display: block;
+    }
+    .valor
+    {
+        display: block;
+    }   
+}
+
+@media (min-width: 250px) and (max-width: 1368), (orientation: portrait)
+{
+    .topnav
+    {
+        display: block;
+    }
+    .sellcard
+    {
+        display: block;
+    }
+    .header
+    {
+        display: block;
+    }
+    .descricao
+    {
+        display: block;
+    }
+    .compra
+    {
+        display: block;
+    }
+    .valor
+    {
+        display: block;
+    }   
+}
+@media (min-width: 250px) and (max-width: 1368), (orientation: landscape)
+{
+    .topnav
+    {
+        display: block;
+    }
+    .sellcard
+    {
+        display: block;
+    }
+    .header
+    {
+        display: block;
+    }
+    .descricao
+    {
+        display: block;
+    }
+    .compra
+    {
+        display: block;
+    }
+    .valor
+    {
+        display: block;
+    }   
+}
